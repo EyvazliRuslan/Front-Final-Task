@@ -1,11 +1,7 @@
-<h1>Front-Final
-
-
-</h1>
+<h1>Front-Final</h1>
 <h2>Qrup 1</h2>
+
 <ol>
-  
-        <hr>
     <li>https://mixmap.travelerwp.com/</li>
     <li>https://mixmap.travelerwp.com/about-us/</li>
     <li>https://mixmap.travelerwp.com/contact/</li>
@@ -14,11 +10,9 @@
 </ol>
 <hr>
 
-        <h2>Qrup 2</h2>
+<h2>Qrup 2</h2>
 
 <ol>
-
-        <hr>
     <li>http://preview.themeforest.net/item/granny-elegant-restaurant-cafe-wordpress-theme/full_screen_preview/20100851?_ga=2.196634158.3444264.1575144744-746188311.1573626711
     </li>
     <li>http://preview.themeforest.net/item/granny-elegant-restaurant-cafe-wordpress-theme/full_screen_preview/20100851?_ga=2.196634158.3444264.1575144744-746188311.1573626711
@@ -35,14 +29,9 @@
     </li>
 </ol>
 <hr>
-
-        <h2>Qrup 3</h2>
+<h2>Qrup 3</h2>
 
 <ol>
-
- 
-        <hr>
- 
     <li>http://brivona.themetechmount.com/</li>
     <li>http://brivona.themetechmount.com/about-us/</li>
     <li>http://brivona.themetechmount.com/services/</li>
