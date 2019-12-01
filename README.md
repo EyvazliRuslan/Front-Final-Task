@@ -34,6 +34,8 @@
     <li>http://brivona.themetechmount.com/</li>
     <li>http://brivona.themetechmount.com/about-us/</li>
     <li>http://brivona.themetechmount.com/services/</li>
+    <li>http://brivona.themetechmount.com/dental-services/</li>
+    <li>http://brivona.themetechmount.com/x-ray-rmi-services/</li>
     <li>http://brivona.themetechmount.com/portfolio/dentures-partial-dentures/</li>
     <li>http://brivona.themetechmount.com/blog/2018/11/15/aspirin-for-prevention/</li>
     <li>http://brivona.themetechmount.com/contact-us/</li>
