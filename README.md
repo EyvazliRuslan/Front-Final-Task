@@ -16,8 +16,7 @@
     <li>http://7oroof.com/tfdemos/wp-granny/
     </li>
         
-    <li>
-    http://7oroof.com/tfdemos/wp-granny/?page_id=2230
+    <li>http://7oroof.com/tfdemos/wp-granny/?page_id=2230
     </li>
     <li>http://7oroof.com/tfdemos/wp-granny/?page_id=2441
     </li>
